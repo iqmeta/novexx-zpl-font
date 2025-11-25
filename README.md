@@ -18,9 +18,10 @@ https://www.dafont.com/de/tacos-de-tijuana.font
 ## Font uploaded to Zebra Printer (from Line 8 - Program.cs)
 <img src="filesOnPrinter.jpg" width="600"/>
 
+## ZPL printstream (from Line 73 - Program.cs)
+<a href="printstream.txt">zpl commands/printstream</a> (1,28kb)<br>
+<img src="fontInZPL.jpg" width="600"/>
+
 ## Labels printed (from Line 80 - Program.cs)
 <img src="zebraPrintResult.jpg" width="600"/>
-
-## ZPL printstream
-<a href="printstream.txt">zpl commands/printstream</a> (1,28kb)<br>
 
