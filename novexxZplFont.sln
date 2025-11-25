@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "novexxZplFont", "novexxZplFont.csproj", "{D21B2A9E-9F87-692E-E0B3-BE027736ECD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21B2A9E-9F87-692E-E0B3-BE027736ECD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21B2A9E-9F87-692E-E0B3-BE027736ECD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21B2A9E-9F87-692E-E0B3-BE027736ECD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21B2A9E-9F87-692E-E0B3-BE027736ECD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB88CCA-B529-4A5E-B909-ED64D296B3A4}
+	EndGlobalSection
+EndGlobal
